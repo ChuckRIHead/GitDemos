@@ -1,0 +1,36 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 09:52:03.316 NotebookApp] Copying /home/ubuntu/.ipython/kernels -> /home/ubuntu/.local/share/jupyter/kernels
+[I 09:52:03.318 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[W 09:52:03.321 NotebookApp] Config option `base_kernel_url` not recognized by `NotebookApp`.  Did you mean one of: `base_project_url, base_url`?
+[W 09:52:03.324 NotebookApp] Config option `base_kernel_url` not recognized by `NotebookApp`.  Did you mean one of: `base_project_url, base_url`?
+[I 09:52:03.332 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 09:52:03.354 NotebookApp] Serving notebooks from local directory: /mnt
+[I 09:52:03.355 NotebookApp] 0 active kernels 
+[I 09:52:03.355 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.2:8888/chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/
+[I 09:52:03.355 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:52:06.120 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.63ms
+[I 09:52:08.237 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.62ms
+[I 09:52:08.614 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.37ms
+[I 09:52:08.620 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.28ms
+[I 09:52:08.899 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.35ms
+[I 09:52:09.089 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.38ms
+[I 09:52:09.462 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.34ms
+[I 09:52:09.498 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.29ms
+[I 09:52:09.541 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.29ms
+[I 09:52:16.801 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.32ms
+[I 09:52:16.928 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.40ms
+[I 09:52:24.277 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.33ms
+[I 09:52:26.508 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.33ms
+[I 09:52:26.512 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.27ms
+[I 09:52:26.611 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.197.4) 0.40ms
+[I 09:52:27.050 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.34ms
+[I 09:52:27.386 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.33ms
+[I 09:52:40.211 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.33ms
+[I 09:52:40.301 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.29ms
+[I 09:53:02.185 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.32ms
+[I 09:53:02.234 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.38ms
+[I 09:53:11.377 NotebookApp] New terminal with automatic name: 1
+[I 09:53:12.222 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.34ms
+[I 09:54:11.063 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.33ms
+[I 09:54:11.100 NotebookApp] 302 GET /chuckhead/git_demo/notebookSession/5a8406bbe4b0e264979f31bc/ (10.0.236.210) 0.32ms
