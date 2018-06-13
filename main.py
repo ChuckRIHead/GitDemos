@@ -1,4 +1,4 @@
-# This is a sample Python script for demos
+#Demoing for EJ
 
 # Import dependencies
 import random
